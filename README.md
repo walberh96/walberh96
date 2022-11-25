@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walberh96
-- 👀 I’m interested in game development.
+- 👀 I’m interested in game development and web development.
 - 🌱 I’m currently learning bash scripting && Unity Networking
-- 💞️ I’m looking to collaborate on anything that gives me the chance to improve on Game Development 
+- 💞️ I’m looking to collaborate on anything that gives me the chance to improve on Game Development, web development and any other area 
 - 📫 How to reach me ... < write an email to walberh96@gmail.com >
 
 <!---
