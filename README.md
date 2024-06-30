@@ -11,7 +11,6 @@
 ## Contact
 - 📫 How to reach me: willgamedevelopment@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/walberh96/)
-- 🐦 [Twitter](https://twitter.com/walberh96)
 - 🌐 [Personal Website](https://walberh96.github.io/)
 
 ## Skills
