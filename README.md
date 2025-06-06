@@ -1,22 +1,16 @@
-👋 Hi, I’m @walberh96
-
 ## About Me
-- 👀 I’m interested in game development.
-- 🌱 I’m constantly learning new things to improve myself and be better.
-- 💞️ I’m looking to collaborate on anything that gives me the chance to improve on Game Development or any other area that gets me closer to my goal: "Make games and enjoy the process while overcoming the challenges along the way."
+I'm a passionate software engineer with a strong background in game development, web technologies, and building engaging digital experiences. I thrive on solving complex problems, collaborating with other developers, and turning creative ideas into reality. My journey has led me to work on a variety of projects, from indie games to web applications, always with a focus on quality and innovation.
+
+I enjoy exploring new programming languages, frameworks, and tools to stay up-to-date with the latest trends in technology. Sharing knowledge and contributing to the developer community is important to me, whether through open source, tutorials, or discussions.
+
+If you're interested in my work or want to connect, feel free to reach out!
 
 ## Projects
 - 🎮 [Solstale](https://store.steampowered.com/app/2719860/Solstale/) - Check out my game on Steam!
 
 ## Contact
 - 📫 How to reach me: willgamedevelopment@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/walberh96/)
 - 🌐 [Personal Website](https://walberh96.github.io/)
-
-## Skills
-- 💻 Programming Languages: C#, C++, Python
-- 🎨 Game Engines: Unity, Unreal Engine
-- 🛠️ Tools: Git, Blender, Photoshop
 
 ## 📊 Stats:
 
@@ -47,14 +41,6 @@
 <img src="https://img.shields.io/github/last-commit/walberh96/walberh96?label=Updated&style=flat" alt="walberh96" />
 
 </div>
-
-## Education
-- 🎓 Associate in Science in Telematics
-
-## Hobbies
-- 🎮 Playing video games
-- 📚 Reading books on game design and development
-- 🎵 Listening to music
 
 <!---
 walberh96/walberh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
