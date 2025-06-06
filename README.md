@@ -1,5 +1,5 @@
 ## About Me
-I'm a passionate software engineer with a strong background in game development, web technologies, and building engaging digital experiences. I thrive on solving complex problems, collaborating with other developers, and turning creative ideas into reality. My journey has led me to work on a variety of projects, from indie games to web applications, always with a focus on quality and innovation.
+I'm a software engineer with a strong background in game development, web technologies, and building engaging digital experiences. I thrive on solving complex problems, collaborating with other developers, and turning creative ideas into reality. My journey has led me to work on a variety of projects, from indie games to web applications, always with a focus on quality and innovation.
 
 I enjoy exploring new programming languages, frameworks, and tools to stay up-to-date with the latest trends in technology. Sharing knowledge and contributing to the developer community is important to me, whether through open source, tutorials, or discussions.
 
