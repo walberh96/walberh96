@@ -41,13 +41,13 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" style="background: #22223b; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=walberh96&theme=onedark&hide_border=false" alt="GitHub Streak" width="220"/>
+    <td align="center" valign="top" style="background: #22223b; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 18px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=walberh96&theme=onedark&hide_border=false" alt="GitHub Streak" width="300"/>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberh96&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="Top Languages" width="220"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberh96&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="Top Languages" width="300"/>
     </td>
-    <td align="center" valign="top" style="background: #22223b; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=walberh96&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark&rank_icon=github" alt="GitHub Stats" width="450" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <td align="center" valign="top" style="background: #22223b; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 18px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=walberh96&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark&rank_icon=github" alt="GitHub Stats" width="540" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
     </td>
   </tr>
 </table>
