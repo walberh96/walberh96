@@ -4,6 +4,7 @@
 - 💻 Skilled in C#, Unity, .NET and game design.
 - 🚀 Always learning and exploring new technologies.
 - 🤝 Happy to collaborate on interesting projects.
+
 ## Projects
 - 🎮 [Solstale](https://store.steampowered.com/app/2719860/Solstale/) - Check out my game on Steam!
 
@@ -19,14 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walberh96&theme=onedark&hide_border=false" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberh96&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="" /><br />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walberh96&theme=onedark&hide_border=false" alt="" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberh96&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&show_icons=true&locale=en" alt="" width="495" /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=walberh96&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=onedark&rank_icon=github" alt="" /><br />
-
   <img src="https://github-profile-trophy.vercel.app/?username=walberh96&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="" /><br /> 
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=walberh96&theme=github-compact" /><br /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walberh96&theme=github-compact" /><br /> 
 </p>
 
 <br />
