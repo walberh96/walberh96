@@ -1,7 +1,7 @@
 ## About Me
 - 🐧 Love linux and open source.
 - 🎮 Love game development.
-- 💻 Skilled in C#, Unity, .NET and game design.
+- 💻 Skilled in C#, Unity, .NET and game development.
 - 🚀 Always learning and exploring new technologies.
 - 🤝 Happy to collaborate on interesting projects.
 
@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
