@@ -20,7 +20,7 @@
 ---
 
 ## About Me
-- 🐧 Linux-first engineer (NixOS) with a strong focus on reproducible workflows and automation.
+- 🐧 Engineer focused on building and shipping reliable software and tools.
 - 🎮 Shipped interactive experiences — including a solo Unity game released on Steam.
 - 💻 Full-stack + backend experience building APIs, web apps, tooling, and developer utilities.
 - 🧠 Comfortable across **C#/.NET**, **Rust**, **JavaScript/TypeScript**, **React/Node**, **PostgreSQL**, and **Java**.
@@ -76,34 +76,3 @@
   <img src="https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white&style=for-the-badge" alt="Unity" />
   <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" alt="Steam" />
 </p>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=walberh96&theme=onedark&hide_border=true" alt="GitHub Streak" width="320"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walberh96&theme=onedark&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" width="320"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=walberh96&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true&rank_icon=github" alt="GitHub Stats" width="520" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=walberh96&theme=onedark&no-frame=true&margin-w=6" alt="GitHub Trophies" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=walberh96&theme=github-compact" alt="Activity Graph"/>
-
-<br/><br/>
-
-[![](https://visitcount.itsvg.in/api?id=walberh96&icon=5&color=4)](https://visitcount.itsvg.in)
-
-</div>
