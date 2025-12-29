@@ -1,7 +1,7 @@
 <div align="center">
 
 # Williams Tamayo
-### Software Engineer · Full-Stack · Game Dev · Linux-first
+### Software Engineer · Full-Stack · Game Dev
 
 <p>
   <a href="https://walberh96.github.io/portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
