@@ -4,7 +4,7 @@
 ### Software Engineer · Full-Stack · Game Dev
 
 <p>
-  <a href="https://walberh96.github.io/portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://walberh96.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/walberh96/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:walberh96@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -31,7 +31,7 @@
 ## Contact
 - 📫 Email: **walberh96@yahoo.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/walberh96/**
-- 🌐 Portfolio: **https://walberh96.github.io/portfolio**
+- 🌐 Portfolio: **https://walberh96.github.io/**
 
 ---
 
